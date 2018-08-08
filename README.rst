@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjacknagz%2Fstreamalert.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjacknagz%2Fstreamalert?ref=badge_shield)
+
 StreamAlert - Serverless, Realtime Data Analysis Framework
 ==========================================================
 
@@ -29,3 +31,7 @@ Links
 * `Announcement Post <https://medium.com/@airbnbeng/e8619e3e5043>`_
 * `User Guide <https://streamalert.readthedocs.io/>`_
 * `Slack <https://streamalert.herokuapp.com/>`_ (unofficial)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjacknagz%2Fstreamalert.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjacknagz%2Fstreamalert?ref=badge_large)
